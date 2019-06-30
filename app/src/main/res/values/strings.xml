@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LS Agora Kotlin</string>
+
+    <string name="agora_app_id">abb553c4f828472e855ee3c3cfd79fa8</string>
+
+    <string name="label_start_camera">Start sharing your camera</string>
+    <string name="label_stop_camera">Stop sharing your camera</string>
+    <string name="label_start_sharing_your_screen">Start Sharing your screen</string>
+    <string name="label_stop_sharing_your_screen">Stop Sharing your screen</string>
+
+    <string name="label_channel_name">ss_test</string>
+</resources>
